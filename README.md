@@ -8,7 +8,7 @@ Learn the basics of PostgreSQL, JDBC, Maven.
 - JDBC;
 
 # 🗒️ Project scope
-Basic CRUD operations:
+Simple Task Manager CLI with basic CRUD operations:
 1. add task;
 2. list tasks;
 3. update task;
